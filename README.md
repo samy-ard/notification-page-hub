@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/samy-ard/notification-page-hub)
-- Live Site URL: [Live Site](https://samy-ard.github.com/notification-page-hub)
+- Live Site URL: [Live Site](https://samy-ard.github.io/notification-page-hub)
 
 ## My process
 
