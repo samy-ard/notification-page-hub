@@ -69,6 +69,7 @@ a {
 	max-width: 23.4375rem;
 	padding: 1.5rem 1rem 1.1875rem;
 	background-color: var(--white);
+	box-shadow: 0 0 0.5rem 0.5rem var(--gray1);
 }
 
 .card-header {
